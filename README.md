@@ -4,7 +4,7 @@ WS22 - Comparator, Comparable
 
 ### 📝 Aufgabe:
 - Implementiert eine Klasse ```Contact```  mit den Attributen ```int phoneNumber```, ```int houseNumber```, ```String adress``` und ```String name```
-- Erzeugt eine automatisch generierte ```toString()```-Methode und einen Konstruktor<br>
+- Erzeugt eine automatisch generierte ```toString()```-Methode und einen ```Konstruktor```<br>
 (rechtsklick -> source -> Generate xyz)
 
 ------------------------------
